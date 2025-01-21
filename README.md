@@ -13,7 +13,7 @@ PicFlare 是一款简单的随机图片 API。
 
 1.   打开 <https://github.com/pandaoxi/picflare>，点击 Fork 按钮。
 
-     ![PixPin_2025-01-20_21-43-19](/post-images/PixPin_2025-01-20_21-43-19.png)
+     ![image](https://github.com/user-attachments/assets/cb6f35cc-e73e-403d-8f4b-e56febac8b2b)
 
      跳转后，可以直接点击页面**底部**的按钮 `Create Fork`。
 
@@ -33,20 +33,25 @@ PicFlare 是一款简单的随机图片 API。
 
 1.   进入 Teams 页面，新建站点。
 
-     ![PixPin_2025-01-20_22-06-00](/post-images/PixPin_2025-01-20_22-06-00.png)
+     ![image](https://github.com/user-attachments/assets/029b5813-c019-4cc2-b60b-a6f15c1f9438)
+
 
 2.   从 Github 导入，选中你刚才 Fork 得到的仓库。
 
-     ![PixPin_2025-01-20_22-07-21](/post-images/PixPin_2025-01-20_22-07-21.png)
+     ![image](https://github.com/user-attachments/assets/030c3a8d-7575-4354-9043-e45cb2df553f)
 
-     ![PixPin_2025-01-20_22-08-41](/post-images/PixPin_2025-01-20_22-08-41.png)
+
+     ![image](https://github.com/user-attachments/assets/7fceda7f-a054-450e-92ec-234fa5d56763)
+
 
 3.   填写一个 `Site Name`。我这里填写的是 `picflare`。
 
-     ![PixPin_2025-01-20_22-11-24](/post-images/PixPin_2025-01-20_22-11-24.png)
+     ![image](https://github.com/user-attachments/assets/75566591-4796-4ac5-8160-44ef69e50a61)
+
 
 4.   滑到页面最底部，点击 Deploy PicFlare。等待部署完成，由 `Site deploy in progress` 变为你的网页即可。类似于：
-     ![PixPin_2025-01-20_22-17-11](/post-images/PixPin_2025-01-20_22-17-11.png)
+     ![image](https://github.com/user-attachments/assets/e384215d-aeec-40a7-81ab-3a6380b436c7)
+
 
 5.   如果你的网页可以正常访问，那么你的 API 就是：
      `https://<your-site>.netlify.app/.netlify/functions/randomImage`
