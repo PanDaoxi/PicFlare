@@ -1,3 +1,5 @@
+// PicFlare by PanDaoxi.
+
 const fs = require("fs");
 const path = require("path");
 

@@ -40,8 +40,7 @@ PicFlare 是一款简单的随机图片 API。
 
      ![image](https://github.com/user-attachments/assets/030c3a8d-7575-4354-9043-e45cb2df553f)
 
-
-     ![image](https://github.com/user-attachments/assets/7fceda7f-a054-450e-92ec-234fa5d56763)
+![image](https://github.com/user-attachments/assets/7fceda7f-a054-450e-92ec-234fa5d56763)
 
 
 3.   填写一个 `Site Name`。我这里填写的是 `picflare`。
@@ -54,9 +53,13 @@ PicFlare 是一款简单的随机图片 API。
 
 
 5.   如果你的网页可以正常访问，那么你的 API 就是：
-     `https://<your-site>.netlify.app/.netlify/functions/randomImage`
-
-
+     `https://<your-site>.netlify.app/.netlify/functions/picflare`
+     
+     或者是：
+     
+     `https://<your-site>.netlify.app/api/picflare`
+     
+     
 
 这样就可以了。如果你需要更新图片库，可以修改 Github 中的仓库。
 
