@@ -4,7 +4,7 @@ PicFlare 创立于 2025 年 1 月 19 日，次日发布初代版本。
 
 PicFlare 是一款简单的随机图片 API。
 
-原理：<https://daoxi365.netlify.app/posts/35651/>
+原理：<https://blog.daoxi365.top/posts/35651/>
 
 ## 使用方法
 
